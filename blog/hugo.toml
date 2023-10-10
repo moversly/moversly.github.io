@@ -1,0 +1,5 @@
+baseURL = 'https://moversly.github.io/'
+languageCode = 'en-us'
+title = 'Moversly Developer Guide'
+
+theme = 'hugo-theme-techdoc'

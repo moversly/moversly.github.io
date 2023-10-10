@@ -1,0 +1,6 @@
++++
+title = 'Post1'
+date = 2023-10-10T13:45:10+05:30
++++
+
+this is the index page
