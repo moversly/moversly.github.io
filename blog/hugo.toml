@@ -1,4 +1,4 @@
-baseURL = 'https://moversly.github.io/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Moversly Developer Guide'
 
